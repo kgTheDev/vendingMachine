@@ -1,13 +1,16 @@
-# 21 Savage Message Board
+# Full-Stack Vending Machine Application
 
-This is my first application using user authorization - super neat! Users have the option to login or sign-up. Eventually they are brought to a profile page where they has personalized information about their account and the option to participate in the ongoing chat feed. Each message they submit will be accompanied by their username.
+This is a full-stack website that allow users to select a soda from our vending machine.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Passport
+**Tech used:** HTML, CSS, JavaScript, Node-JS, MongoDB, Express and Passport
 
-## Lessons Learned:
-With this project we had multiple .ejs files to navigate through so we really got the chance to pull from the database in more complex ways.
+# Optimization
+
+I would like to add a lot more animation and color for it to be for visual.
+
+
 
 ## Installation
 
